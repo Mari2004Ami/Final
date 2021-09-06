@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Teko';
+    src:url('../fonts/Teko-SemiBold.eot');
+    src: url('../fonts/Teko-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Teko-SemiBold.woff2') format('woff2'),
+        url('../fonts/Teko-SemiBold.woff') format('woff'),
+        url('../fonts/Teko-SemiBold.ttf') format('truetype'),
+        url('../fonts/Teko-SemiBold.svg#Teko-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Teko';
+    src: url('../fonts/Teko-Medium.eot');
+    src: url('../fonts/Teko-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Teko-Medium.woff2') format('woff2'),
+        url('../fonts/Teko-Medium.woff') format('woff'),
+        url('../fonts/Teko-Medium.ttf') format('truetype'),
+        url('../fonts/Teko-Medium.svg#Teko-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Teko';
+    src: url('../fonts/Teko-Bold.eot');
+    src: url('../fonts/Teko-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Teko-Bold.woff2') format('woff2'),
+        url('../fonts/Teko-Bold.woff') format('woff'),
+        url('../fonts/Teko-Bold.ttf') format('truetype'),
+        url('../fonts/Teko-Bold.svg#Teko-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT Lakes Medium DEMO';
+    src: url('../fonts/TTLakesMediumDEMO.eot');
+    src: url('../fonts/TTLakesMediumDEMO.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTLakesMediumDEMO.woff2') format('woff2'),
+        url('../fonts/TTLakesMediumDEMO.woff') format('woff'),
+        url('../fonts/TTLakesMediumDEMO.ttf') format('truetype'),
+        url('../fonts/TTLakesMediumDEMO.svg#TTLakesMediumDEMO') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Adevale';
+    src: url('../fonts/Adevale-Regular.eot');
+    src: url('../fonts/Adevale-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Adevale-Regular.woff2') format('woff2'),
+        url('../fonts/Adevale-Regular.woff') format('woff'),
+        url('../fonts/Adevale-Regular.ttf') format('truetype'),
+        url('../fonts/Adevale-Regular.svg#Adevale-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

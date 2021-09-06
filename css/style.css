@@ -1,0 +1,760 @@
+/*-----------------body----------------------*/
+body {
+	background-color: #EDF0F2;
+}
+/*----------------header---------------------*/
+header{
+	margin-top: 40px;
+}
+.logo {
+	margin-left: 230px;
+	margin-bottom: 60px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+}
+.header-li {
+	display: inline-block;
+	font-size: 17px;
+	vertical-align: middle;
+	font-family: 'Teko';
+}
+.header-li-1 {
+	margin-left: 778px;
+	margin-right: 72px;
+}
+.header-li-2 {
+	margin-right: 55px;
+}
+.header-li-3 {
+	margin-left: 54px;
+}
+.line {
+	height: 38px;
+	border: black solid 1px;
+	display: inline-block;
+	margin-left: 25px;
+	vertical-align: middle;
+}
+.image {
+	vertical-align: middle;
+	margin-left: 45px;
+}
+.relative {
+	position: relative;
+	width: 46px;
+	height: 46px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 53px;
+}
+.search:first-child {
+	position: absolute;
+	left: 15px;
+	top: 13px;
+	right: 15px;
+	bottom: 15px;
+	z-index: 5
+}
+.background:last-child {
+	position: absolute;
+}
+          /*-------first section---------*/
+.first-section-h2 {
+	transform: rotate(270deg);
+	transform-origin: 0 0;
+	float: left;
+	margin-top: 250px;
+	font-size: 55px;
+	font-family: 'Teko';
+	margin-top: 500px;
+	margin-right: 0 ;
+	margin-left: 200px;
+}
+
+.first-h1 {
+	width: 286px;
+	height: 534px;
+	font-size: 176px;
+	line-height: 130px;
+	color: #e4003b;
+	font-weight: 600;
+	font-family: "Teko";
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 87px;
+	margin-left: -260px;
+	margin-right: 150px;
+	text-transform: uppercase;
+	text-align: left;
+}
+       /*----div start------*/
+.picture {
+	width: 1076px;
+	height: 776px;
+	display: inline-block;
+	position: relative;
+}
+.image1:first-child {
+	width: 1170px;
+	height: 814px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: top;
+	position: absolute;
+}
+.Rectangle-1:nth-child(2) {
+	position: absolute;
+	right: 0;
+	bottom: 65px;
+}
+.Rectangle-2:last-child {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+         /*--------div end--------*/
+.secton-ul {
+	float: right;
+	margin-right: 180px;
+	margin-top: -550px;
+	text-align: right;
+	display: inline-block;
+	vertical-align: top;
+}
+.section-line {
+	width: 70px;
+	border: 1px solid #e4003b;
+	margin-bottom: 15px
+}
+.li-01 {
+	margin-bottom: 15px;
+	font-size: 60px;
+	font-family: 'Teko';
+	vertical-align: top;
+}
+.section-li {
+	margin-top: 50px;
+	font-size: 17px;
+	font-family: 'Teko';
+	vertical-align: top;
+}
+           /*---------second section---------*/
+.text-div {
+	width:600px; 
+	height: 271px;
+	position: relative;
+	margin-top: -300px;
+	margin-left: 225px;
+}
+.section-text-1:first-child {
+	width: 400px;
+	height: 90px;
+	font-size: 14px;
+	line-height: 26px;
+	color: #000000;
+	top: 80px;
+	left: 50px;
+	position: absolute;
+	font-family: 'TT Lakes Medium DEMO';
+	z-index: 5;
+}
+.arrow:nth-child(2) {
+	width: 169px; 
+	height: 256px;
+	position: absolute;
+	left: 300px;
+	top: 5px
+}
+.social-logos:last-child {
+	position: absolute;
+	left: 0;
+	bottom:0;
+}
+                /*-------third section--------*/
+.third-section {
+	margin-top: 200px;
+	margin-left: 220px;
+	display: inline-block;
+	width: 966px;
+	height: 400px;
+}
+.second-h1 {
+	font-size: 60px;
+	line-height: 60px;
+	color: #000000;
+	font-weight: 600;
+	font-family: 'Teko';
+}
+                  /*-----article-----*/
+article {
+	width: 966px;
+	height: 400px;
+	display: inline-block;
+}
+.article-img-1 {
+	margin-left: -25px;
+}
+.article-h6 {
+	padding-bottom: 20px;
+	font-size: 17px;
+	color: #e4003b;
+	font-family: "Teko";
+}
+.article-h1 {
+	padding-bottom: 50px;
+	width: 400px;
+	height: 39px;
+	font-size: 36px;
+	color: #000000;
+	font-family: "Teko";
+}
+.article-p {
+	width: 400px;
+	height: 62px;
+	font-size: 14px;
+	color: #000000;
+	font-family: "T TLakes";
+}
+.article-img-2 {
+	display: inline-block;
+}
+.article-img-3 {
+	margin-top: -50px;
+}
+.article-h6-2 {
+	padding-top: 13px;
+	padding-left: 5px;
+	font-size: 17px;
+	color: #000000;
+	vertical-align: top;
+	display: inline-block;
+	font-family: "Teko";
+}
+.article-image {
+	display: inline-block;
+}
+.article-text {
+	display: inline-block;
+	width: auto; /*400px*/;
+	height: 400px;
+	vertical-align: middle;
+	margin-top: -90px;
+}
+.article-text-1 {
+	margin-left: 30px;
+}
+.article-div {
+	display: inline-block;
+}
+			/*--fourth section---*/
+.fourth-section {
+	display: inline-block;
+	width: 550px;
+	margin-top: 120px;
+	margin-left: 30px;
+	vertical-align: top;
+}
+.section-h5:first-child {
+	font-size: 60px;
+	color: #e4003b;
+	font-family: "Teko";
+	position: absolute;
+	left: 110px;
+	bottom: 0;
+}
+.section-4-h1 {
+	position: absolute;
+	font-size: 174px;
+	color: #ffffff;
+	display: inline-block;
+	font-family: "Teko";
+	letter-spacing: 17px;
+	right: 0;
+	text-transform: uppercase;
+}
+.section-4-div {
+	position: relative;
+	width: 800px;
+	height: 140px;
+}
+.section-relative {
+	position: relative;
+	width: 700px;
+	height:500px;
+}
+.section-img-1:first-child {
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 45px;
+	z-index: 5;
+}
+.section-absolute:last-child {
+	position: absolute;
+	font-size: 96px;
+	line-height: 112px;
+	color: #e4003b;
+	font-family: "Adevale";
+	transform: rotate(-20deg);
+	left: 200px;
+	top: 40px;
+}
+.section-text {
+	margin-top: 150px;
+	padding-left: 200px;
+}
+.fourth-section-h2-2 {
+	width: 413px;
+	height: 126px;
+	font-size: 36px;
+	line-height: 37px;
+	color: #000000;
+	font-weight: 500;
+	padding-bottom: 150px;
+	font-family: "Teko";
+}
+.fourth-section-p {
+	width: 413px;
+	height: 117px;
+	font-size: 14px;
+	letter-spacing: 0px;
+	line-height: 26px;
+	color: #000000;
+	font-family: "T TLakes";
+}
+.section-h1 {
+	font-size: 60px;
+	color: #000000;
+	font-weight: 600;
+	padding-bottom: 45px;
+	font-family: "Teko";
+}
+          /*-------fifth section----*/
+.section-traveler-img {
+	margin-top: 200px;
+}
+.traveler-img-div {
+	width: 1822px;
+	height: 1212px;
+	margin-left: 120px;
+	position: relative;
+}
+.traveler-img:first-child {
+	position: absolute;
+}
+.section-13:nth-child(2) {
+	position: absolute;
+	width: 202px;
+	height: 280px;
+	font-size: 280px;
+	line-height: 20px;
+	color: #e4003b;
+	font-weight: 600;
+	font-family: "Teko";
+	text-align: right;
+	top: 400px;
+	left: 168px;
+}
+.fifth-section-h6:nth-child(3) {
+	position: absolute;
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 53px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	top: 340px;
+	left: 169px;
+	z-index: 5;
+}
+.fifth-section-h2:nth-child(4) {
+	position: absolute;
+	width: 305px;
+	height: 202px;
+	font-size: 60px;
+	line-height: 58px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	top: 664px;
+	left: 172px;
+}
+.first-span {
+	color: #e4003b;
+}
+.first-section-h2-2:nth-child(5) {
+	position: absolute;
+	font-size: 174px;
+	letter-spacing: 5px;
+	line-height: 130px;
+	color: #ffffff;
+	font-weight: 600;
+	font-family: "Teko";
+	transform: rotate(270deg);
+	top: 580px;
+	left: 100px;
+	text-transform: uppercase;
+}
+.fifth-section-arrow:nth-child(6) {
+	position: absolute;
+	top: 900px;
+	left: 650px;
+}
+.section-x:nth-child(7) {
+	position: absolute;
+	top: 898px;
+	left: 176px;
+}
+.section-x-h6:nth-child(8) {
+	position: absolute;
+	padding-top: 13px;
+	padding-left: 5px;
+	font-size: 17px;
+	color: #000000;
+	font-family: "Teko";
+	top: 895px;
+	left: 229px;
+}
+.article-div:last-child {
+	position: absolute;
+	width: 492px;
+	height: 796px;
+	border: solid #e4003b 20px;
+	top: 221px;
+	left: 935px;
+	padding: 50px;
+}
+.section-article-h1 {
+	width: 398px;
+	height: 195px;
+	font-size: 60px;
+	line-height: 54px;
+	color: #edf0f2;
+	font-weight: 500;
+	font-family: "Teko";
+	padding-top: 200px;
+	text-transform: uppercase;
+}
+.section-article-p {
+	width: 349px;
+	height: 128px;
+	font-size: 36px;
+	line-height: 37px;
+	color: #edf0f2;
+	font-weight: 500;
+	font-family: "Teko";
+	padding-top: 200px;
+	padding-bottom: 100px;
+}
+.section-article-img {
+	padding-top: 53px;
+	display: inline-block;
+}
+.section-article-h6 {
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 53px;
+	color: #ffffff;
+	font-weight: 600;
+	font-family: "Teko";
+	display: inline-block;
+	padding-left: 10px;
+} 
+           /*----sixth section----*/
+.sixth-section {
+	margin-top: 200px;
+}
+.sixth-section-h1 {
+	text-transform: uppercase;
+	display: inline-block;
+	transform: rotate(270deg);
+	transform-origin: 0 0;
+	font-size: 174px;
+	letter-spacing: 5px;
+	line-height: 130px;
+	color: #e4003b;
+	font-weight: 600;
+	font-family: "Teko";
+	margin-left: 300px;
+}
+.sixth-section-div {
+	position: relative;
+	width: 1390px; 
+	height: 617px;
+	display: inline-block;
+	margin-left: -300px;
+}
+.sixth-section-img-1:first-child {
+	position: absolute;
+	margin-left: 2px;
+}
+.sixth-div-img-1:nth-child(2) {
+	position: absolute;
+	left: 0;
+	bottom: -1px;
+}
+.sixth-section-div-h1:nth-child(3) {
+	font-size: 60px;
+	position: absolute;
+	letter-spacing: 2px;
+	line-height: 37px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	left: 53px;
+	bottom: 172px;
+}
+.sixth-section-div-p:nth-child(4) {
+	width: 370px;
+	height: 76px;
+	font-size: 14px;
+	letter-spacing: 0px;
+	line-height: 26px;
+	color: #000000;
+	font-family: "T TLakes";
+	position: absolute;
+	left: 55px;
+	bottom: 76px;
+}
+.section-div-img:nth-child(5) {
+	position: absolute;
+	left: 55px;
+	bottom: 12px;
+}
+.section-div-h6:nth-child(6) {
+	position: absolute;
+	bottom: 26px;
+	left: 103px;
+}
+.div-2-img:nth-child(7) {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.div-2-ul:nth-child(8) {
+	position: absolute;
+	right: 54px;
+	top: 0;
+	text-align: right;
+}
+.div-li-1 {
+	font-size: 60px;
+	letter-spacing: 2px;
+	line-height: 131px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+}
+.div-li-2 {
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 53px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	margin-top: -40px;
+}
+.ul-div-line {
+	border: 1px solid #e4003b;
+	width: 70px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: -80px;
+}
+.div-Rectangle-1:nth-child(9) {
+	position: absolute;
+	right: 4px;
+	bottom: 65px;
+}
+.div-Rectangle-2:last-child {
+	position: absolute;
+	right: 4px;
+	bottom: 1px;
+}
+          /*---seventh section----*/
+.seventh-section {
+	margin-top: 200px;
+}
+.seventh-section-div-1 {
+	position: relative;
+	display: inline-block;
+	width: 512px;
+	height: 505px;
+	margin-left: 160px;
+}
+.seventh-section-div-2 {
+	position: relative;
+	display: inline-block;
+	width: 512px;
+	height: 505px;
+	margin-left: 70px;
+}
+.seventh-section-div-3 {
+	position: relative;
+	display: inline-block;
+	width: 512px;
+	height: 505px;
+	margin-left: 50px;
+}
+.div-img:first-child {
+	position: absolute;
+	width: 512px;
+	height: 505px;
+}
+.line2 {
+	display: inline-block;
+	height: 15px;
+	border: #edf0f2 solid 1px;
+	margin-left: 25px;
+	vertical-align: middle;
+	margin-left: 1px;
+}
+.div-h5:nth-child(2) {
+	position: absolute;
+	font-size: 16px;
+	letter-spacing: 0px;
+	line-height: 53px;
+	color: #edf0f2;
+	font-weight: 600;
+	font-family: "Teko";
+	bottom: 131px;
+	left: 44px;
+}
+.div-p:nth-child(3) {
+	position: absolute;
+	width: 413px;
+	height: 91px;
+	font-size: 36px;
+	line-height: 37px;
+	color: #edf0f2;
+	font-weight: 500;
+	font-family: "Teko";
+	bottom: 50px;
+	left: 41px;
+}
+.yt:last-child {
+	position: absolute;
+	width: 25px;
+	height: 30px;
+	left: 55px;
+	top: 45px;
+}
+.div-h1:first-child {
+	position: absolute;
+	font-size: 106px;
+	letter-spacing: 3px;
+	line-height: 130px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	top: 100px;
+	left: 53px;
+	text-transform: uppercase;
+}
+.div-h2:nth-child(2) {
+	position: absolute;
+	font-size: 70px;
+	transform: rotate(-20deg);
+	top: 170px;
+	left: 40px;
+	line-height: 82px;
+	color: #e4003b;
+	font-family: "Adevale";
+	text-align: right;
+}
+.div-p-2:nth-child(3) {
+	position: absolute;
+	bottom: 135px;
+	left: 60px;
+	width: 369px;
+	height: 120px;
+	font-size: 14px;
+	letter-spacing: 0px;
+	line-height: 26px;
+	color: #000000;
+	font-family: "T TLakes";
+}
+.div-img-2:nth-child(4) {
+	position: absolute;
+	bottom: 115px;
+	left: 60px;
+}
+.div-h6:nth-child(5) {
+	position: absolute;
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 53px;
+	color: #000000;
+	font-weight: 600;
+	font-family: "Teko";
+	bottom: 105px;
+	left: 115px;
+}
+.div-arrow:last-child {
+	position: absolute;
+	right: -10px;
+	bottom: -100px;
+}
+    /*--------footer-----------*/
+footer {
+	margin-left: 180px;
+	margin-top: 200px;
+}
+.footer-container{
+	position: relative;
+	width: 1600px;
+	height: 358px;
+}
+.image-footer:first-child {
+	position: absolute;
+	width: 1600px;
+	height: 358px;
+}
+.footer-logo:nth-child(2) {
+	position: absolute;
+	left: 112px;
+	top: 127px;
+}
+.footer-social:nth-child(3) {
+	position: absolute;
+	left: 377px;
+	bottom: 28px;
+}
+.footer-div {
+	display: inline-block;
+}
+.first:nth-child(4) {
+	position: absolute;
+	bottom: 107px;
+	left: 376px;
+}
+.second:nth-child(5) {
+	position: absolute;
+	left: 689px;
+	bottom: 109px;
+}
+.third:last-child {
+	position: absolute;
+	bottom: 211px;
+	left: 1007px;
+}
+.footer-h1 {
+	text-transform: uppercase;
+	font-size: 36px;
+	color: #e4003b;
+	font-weight: 500;
+	line-height: 37px;
+	font-family: "Teko";
+}
+.footer-li {
+	width: 200px;
+	line-height: 26px;
+	font-size: 14px;
+	letter-spacing: 0px;
+	color: #edf0f2;
+	font-family: "T TLakes";
+}
